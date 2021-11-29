@@ -20,6 +20,8 @@ Skin Lesion Analysis Toward Melanoma Detection: A Challenge at the 2017 Internat
 
 - spillting (80, 19, 1)
 - keseluruhan data adalah 2570
+- ![Screenshot (266)](https://user-images.githubusercontent.com/64590037/143911137-bfa6c031-7f7d-4472-8c0b-978f311f2646.png)
+
 
 # PRE-PROCESSING
 - size (250,250)
@@ -32,4 +34,11 @@ Skin Lesion Analysis Toward Melanoma Detection: A Challenge at the 2017 Internat
 # MODEL YANG DIGUNAKAN
 -MODEL 1
 - Sequential (sequential_4)
-- 
+- input_shape=(128, 128, 3))
+- Dense, Dropout, Conv2D, Activation, Flatten, MaxPool2D, BatchNormalization
+- ![Screenshot (265)](https://user-images.githubusercontent.com/64590037/143910733-5591b43f-37d3-4d7d-a2be-5fd00c5f0584.png)
+- matrik evaluasi (-)
+- grafik akurasi (-) karena ngerun epoch gagal terus
+- ![Screenshot (263)](https://user-images.githubusercontent.com/64590037/143911262-acbeca11-af72-4e83-8c9e-a7b0f971d80d.png)
+- grafik loss (-)
+-MODEL2 (belum ada)
