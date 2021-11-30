@@ -44,5 +44,6 @@ Skin Lesion Analysis Toward Melanoma Detection: A Challenge at the 2017 Internat
 -MODEL2 (belum ada)
 
 - Sudah mencoba ganti2 epoch dan step per epoch masih sama aja error
-- ![Screenshot (1)](https://user-images.githubuser![Screenshot (2)](https://user-images.githubusercontent.com/48478522/143966836-ceb32782-20df-41bb-afd5-21222ef2453e.png)
-content.com/48478522/143966805-7a0e6e28-ade0-4f69-abb5-a5d7df082701.png)
+- ![Screenshot (1)](https://user-images.githubusercontent.com/48478522/143966922-96e18c1d-78e9-4faa-9ac2-10ebe2e555f6.png)
+
+
